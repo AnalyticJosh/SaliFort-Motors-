@@ -1,4 +1,4 @@
-# Saliform motors Data Analysis Project
+# Salifort motors Data Analysis Project
 
 ## **Overview**
 
